@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "amiibo-getter", "amiibo-getter.csproj", "{0BBD6C40-1AB8-429D-9132-ECA4F2E0E6CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BBD6C40-1AB8-429D-9132-ECA4F2E0E6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BBD6C40-1AB8-429D-9132-ECA4F2E0E6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BBD6C40-1AB8-429D-9132-ECA4F2E0E6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BBD6C40-1AB8-429D-9132-ECA4F2E0E6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E52120EF-6BFC-41BE-B1E7-EA004740A2EF}
+	EndGlobalSection
+EndGlobal
