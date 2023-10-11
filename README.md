@@ -1,4 +1,7 @@
 # amiibo-getter
+
+### [v0.1](https://github.com/rucker122/amiibo-getter/releases/tag/0.1)
+
 開發中，目前資料是從日本amiibo官網爬下來的\
 部分功能待開發
 
