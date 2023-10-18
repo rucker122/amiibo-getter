@@ -1,5 +1,7 @@
 # amiibo-getter
 
+### [已擷取的 amiibo 列表](https://github.com/rucker122/amiibo-getter/wiki/amiibo-List)
+
 ### [v0.1](https://github.com/rucker122/amiibo-getter/releases/tag/0.1)
 
 開發中，目前資料是從日本amiibo官網爬下來的\
